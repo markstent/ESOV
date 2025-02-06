@@ -71,7 +71,7 @@ Your dataset should be in CSV or Excel format with the following required column
 | Share of Market | The percentage of market share                | 25.5%         |
 | Spend          | The total advertising spend for the brand      | 1000000       |
 
-A sample dataset can be downloaded [here](https://example.com/sample-dataset.csv).
+A sample dataset can be downloaded [here](data/Generated_ESOV_Dataset.csv).
 
 ## Who Can Benefit from This Application?
 - **Marketing Teams**: Optimize advertising budgets and maximize return on investment (ROI).
